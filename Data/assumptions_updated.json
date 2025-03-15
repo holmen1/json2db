@@ -1,0 +1,24 @@
+{
+  "Assumptions": {
+    "A": {
+      "HR": {
+        "Investment": 10.0,
+        "cash": 2.0
+      },
+      "LR": {
+        "Investment": 3.0,
+        "cash": 4.0
+      }
+    },
+    "B": {
+      "HR": {
+        "Investment": 10.0,
+        "cash": 6.0
+      },
+      "LR": {
+        "Investment": 7.0,
+        "cash": 8.0
+      }
+    }
+  }
+}
